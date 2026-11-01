@@ -7,6 +7,7 @@
 # FastDecompress
 
 <p>
+  <a href="https://github.com/SenjuWoo/FastDecompress/actions/workflows/build.yml"><img src="https://github.com/SenjuWoo/FastDecompress/actions/workflows/build.yml/badge.svg" alt="CI"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-345B9C?labelColor=0d1117" alt="GPL-3.0 License"></a>
 </p>
 
