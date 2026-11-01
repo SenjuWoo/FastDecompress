@@ -1,4 +1,16 @@
+<p align="center">
+  <img src="assets/mark.svg" width="72" height="72" alt="FastDecompress">
+</p>
+
+<div align="center">
+
 # FastDecompress
+
+<p>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-345B9C?labelColor=0d1117" alt="GPL-3.0 License"></a>
+</p>
+
+</div>
 
 Changes decompression systems in Fallout 4, Skyrim (SE/AE) and Fallout New Vegas to newer and faster libraries (libdeflate / liblzma / zstd via vcpkg), cutting load times when the engine reads compressed BSA/BA2 archives.
 
